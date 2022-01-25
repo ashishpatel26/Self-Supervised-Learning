@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ashishpatel26/Self-Supervised-Learning/main/Self%20Supervised%20Learning/Self%20Supervised%20Learning-logos_b.png)
+![](https://github.com/ashishpatel26/Self-Supervised-Learning/blob/main/Self%20Supervised%20Learning/Self%20Supervised%20Learning-logos_black.png?raw=true)
 
 # Self Supervised Learning
 
